@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2G", "Ex2G\Ex2G.csproj", "{F655F8C5-BF8F-4D25-BB7E-094558C11564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRusert2g1UnitTests", "KRusert2g1UnitTests\KRusert2g1UnitTests.csproj", "{9DE8C1EF-C951-4D0D-8D09-19565ACC45AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F655F8C5-BF8F-4D25-BB7E-094558C11564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F655F8C5-BF8F-4D25-BB7E-094558C11564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F655F8C5-BF8F-4D25-BB7E-094558C11564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F655F8C5-BF8F-4D25-BB7E-094558C11564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE8C1EF-C951-4D0D-8D09-19565ACC45AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE8C1EF-C951-4D0D-8D09-19565ACC45AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE8C1EF-C951-4D0D-8D09-19565ACC45AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE8C1EF-C951-4D0D-8D09-19565ACC45AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97E0AB89-32FF-44FB-9282-F243494D60F5}
+	EndGlobalSection
+EndGlobal
